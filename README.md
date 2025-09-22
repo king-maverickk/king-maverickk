@@ -22,7 +22,7 @@
 </h1>
 <h2 align="center">❂ I am Motheo M Moleko</h2>
 
-<h4 align="left">🌟I am a Microsoft Certified Azure Developer Associate, have 6 years of personal programming experience, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building creative and innovative programs and application</h4>
+<h4 align="left">🌟I am a Microsoft Certified Azure Developer Associate, have 6 years of personal programming experience, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building creative and innovative programs and applications.</h4>
 
 
  <div align="center">
