@@ -56,8 +56,8 @@
 <h4> 
  🌱 I’m currently working on: Guitar Project + Cloud Stuff .</br>
  🔭 I've worked on many React projects, Azure cloud</br>
- 👯 I’m looking to collaborate on: **Creative Dev projects** </br>
- 💬 Ask me about: **Cloud engineering, web design, or art in general** </br>
+ 👯 I’m looking to collaborate on: Creative Dev projects </br>
+ 💬 Ask me about: Cloud engineering, web design, or art in general </br>
  ✨ I only like perfection.</h4> 
  
  <div align="left"> 
