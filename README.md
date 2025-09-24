@@ -112,7 +112,7 @@
 <br/>
 
 
-<!-- top repo and teck stack-->
+<!-- top repo and teck stack
 <div align="center">
   <h3>⭐️ Best Repositories</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
@@ -140,7 +140,7 @@
   </div>
   <div align="center"> 
   </div>
-
+-->
 
 <!-- support -->
 <h3 align="center">Support Me 💰 </h3>
